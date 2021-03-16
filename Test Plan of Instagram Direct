@@ -1,0 +1,70 @@
+Instagram Direct Function Test Plan				
+	
+  
+Introduction		
+
+Instagram Direct is a private messaging feature on the popular mobile photo sharing app Instagram.			
+Although Instagram has been around since 2010, no private messaging was available on the platform until Instagram Direct was finally launched in December 2013.			
+It allows users to  share messages, photos, videos, profiles, posts, hashtags, locations with one or multiple users in a group:					
+Optionally, user can merge Instagram Direct with Facebook Messenger and get all the features of Facebook's messaging feature accessible from his Instagram. Plus, 
+messages from Facebook users will appear in this merged inbox.			
+There are also three options to choose to limit unwanted communication with user: reporting, restricting and blocking users in Instagram Direct			
+			
+      
+Features to be tested			
+		
+- New message	
+	- search
+	- plain text message sharing
+	- record sharing
+	- photos&videos from the device's library sharing
+	- disappearing photos&videos taking through the Instagram app sharing
+	- Instagram profiles sharing
+	- Instagram photo&video posts sharing
+	- Instagram hashtags sharing
+	- Instagram locations sharing
+	- unsend message
+- New video chat	
+	- search
+	- invite to video chat
+	- turn on/off the camera
+	- turn on/off the microphone
+	- media sharing
+	- remove shared media
+	- add users to the chat
+- Search	
+- Details	
+	- mute messages
+	- mute video chats
+	- see all shared media
+	- restrict user
+	- report user
+	- block user
+- Merge with Facebook messenger	
+	- sending messages across apps
+	- join video calls across apps
+	- message controls			
+      
+      
+Features not to be tested		
+
+- Registration
+- Your story
+- Search
+- New post
+- Activity
+- Profile
+			
+      
+Entry criteria			
+
+- Code to be tested is done
+- Test documentation is prepared
+- Test environment is ready
+
+
+Exit crereria
+
+- All test cases are done and there are not bugs with a specific priority
+- Deadline
+- Client's financing is ended
